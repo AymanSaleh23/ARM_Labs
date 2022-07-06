@@ -35,3 +35,5 @@ https://developer.arm.com/tools-and-software/open-source-software/developer-tool
     -Wl,-Map,"mapFile.map": Tells the tool chain to generate a map file with name "mapFile".
   
     -Wl,-T"lnkscript.lds": Tells the tool chain to use a linker Skript named "lnkscript" in the current terminal path.
+### For more details read this file
+  https://docs.google.com/document/d/1YzEUeByG-AIacsBNMbWVFhmvYe_tC392Ple_sIwWyrU/edit?usp=sharing
